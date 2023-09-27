@@ -43,3 +43,10 @@ section {
     height: calc(100vh - 6rem);
 
 }
+
+.paragrafos{
+    text-align: center;
+    margin-top: 9%;
+    margin-bottom: 9%;
+}
+
